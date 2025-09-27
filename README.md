@@ -6,7 +6,7 @@ This is an exercise of classification to land use land cover. See the initial aj
 
 ### 1. Upload .zip compressed shp files and set with ROI
 
-### 2. Select the drawing tool and select non-forest and forest samples, , you can define all classes in your area. 
+### 2. Select the drawing tool and select non-forest and forest samples (you can define all classes in your area). 
 
 ### 3. Edit the Geometries:
   
